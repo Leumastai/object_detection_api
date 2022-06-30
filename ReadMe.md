@@ -1,5 +1,5 @@
 ## Object Detection API
-`This is a Dockerized Object Detection API that can be used to get the objects boundaries, labels, confidences and face boundaries in an image. As a dockerized app, the api can be installed all OS`
+This is a Dockerized Object Detection API that can be used to get the objects boundaries, labels, confidences and face boundaries in an image. As a dockerized app, the api can be installed all OS
 
 ---
 ### Example
